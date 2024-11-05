@@ -1,15 +1,4 @@
 # Midterm Project Group: BAGS
-### Group Members: **B**ryan Birrueta, **A**ndrew Whitig, **G**o Ogata, **S**hane Staret
-
-## Project Introduction
-##### Images have long been used in the field of forensics because of the data that they are capable of capturing. Automatic digital image generation is incredibly common in the modern age and this has provided the scientific community with plenty of use cases for applying algorithms that allow information to be extracted from an image through machine learning.  
-##### The implementation showcased in this project uses a neural network and deep learning (through TensorFlow and Keras) to classify images as containing dogs or not. In its current form, this project is a foundational step to building a more complex solution that can identify specific forms of wildlife within an image.
-
-## Running the Code
-##### 
-=======
-# Midterm Project Group: BAGS
-### Group Members: **B**ryan Birrueta, **A**ndrew Whitig, **G**o Ogata, **S**hane Staret
 
 ## Project Introduction
 ##### Images have long been used in the field of forensics because of the data that they are capable of capturing. Automatic digital image generation is incredibly common in the modern age and this has provided the scientific community with plenty of use cases for applying algorithms that allow information to be extracted from an image through machine learning.  
